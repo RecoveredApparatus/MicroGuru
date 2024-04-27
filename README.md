@@ -1,1 +1,2 @@
 # MicroGuru
+Our AI-driven Microorganism Identification and Research Assistance service is designed to streamline and enhance microbiological research endeavors. Leveraging cutting-edge artificial intelligence technology, we offer a comprehensive solution to identify and analyze microorganisms, empowering researchers in various fields such as biotechnology, medicine, agriculture, and environmental science.
